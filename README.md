@@ -1,7 +1,7 @@
 ### 👋 Hello and Welcome to My Github 👋
 
 - :computer: I am a Full-Stack Web Developer
-- :mag_right: Looking for a Full time position
+- :mag_right: Looking for new opportunities
 - 📫 You can reach me at: Otabek.Akbaroff@gmail.com
 - :arrow_right: Check out my portfolio at: https://otabekakbaroff.com/
 - :hourglass: My LinkedIn: https://www.linkedin.com/in/otabek-akbaroff/
