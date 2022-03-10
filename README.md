@@ -65,7 +65,7 @@
 
 
 
-|                                                     New York City College of Technology                                   |
+| New York City College of Technology |
 | ------------------------------------------------------------------------------------------------------------------------- | 
-|                                   Completed 47 credits towards Computer System Information Technology                     |
+|Completed 47 credits towards Computer System Information Technology. This is where i started my journey, learned a lot of valuable life lessons                     |
 
