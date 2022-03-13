@@ -26,7 +26,7 @@
  <tr>   
     <td>React</td> 
     <td>Redux & Context API</td>
-    <td>Next</td>
+    <td>Next js</td>
  </tr>
     <tr>   
     <td>Node</td>
