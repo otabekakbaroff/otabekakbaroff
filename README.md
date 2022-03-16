@@ -8,7 +8,7 @@
 
 - [Portfolio](https://otabekakbaroff.com/)
 - [LinkedIn](https://www.linkedin.com/in/otabekakbaroff/)
-- [Codepen](https://codepen.io/otabekakbaroff)
+- [hackerrank](https://www.hackerrank.com/otabekakbaroff)
 - [Resume](https://resume.io/r/fuifzJ2DP)
 
 
